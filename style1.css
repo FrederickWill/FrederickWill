@@ -1,0 +1,91 @@
+div {
+    height: 400px;
+    background-color: rgb(252, 223, 228);
+}
+.fengjing{
+    height: 80px;
+    background: pink url(sucai/1.jpg) no-repeat center top;
+    background-size: cover;
+    font: normal 800 30px/80px 'Microsoft yahei';
+    text-align: center;
+    color: #7bbaf0;
+}
+.nav{
+    height: 60px;
+}
+.nav a {
+    display: inline-block;
+    width:16.35%;
+    height: 60px;
+    background-color: rgb(252, 127, 105);
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font:normal 600 23px/60px 'Microsoft yahei';
+}
+.nav a:hover{
+    background-color: rgb(255, 164, 28);
+}
+div img {
+    width:56%;
+    height:80%;
+}
+.liubai{
+    width: 16.37%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    background:#fff no-repeat;
+    float:right;
+    font: normal 400 23px 'Microsoft yahei';
+    text-align: center;
+    color: rgb(252, 252, 252);
+
+}
+.meiri{
+    width: 100%;
+    height: 20%;
+    background:#b6d6f2 no-repeat;
+    float:right;
+}
+.geren{
+    display: inline-block;
+    width: 100%;
+    height: 78%;
+    background:#b6d6f2 no-repeat;
+}
+.yi{
+    width: 50%;
+    background: #b6d6f2(196, 148, 148);
+}
+.yi img{
+    width: 100%;
+    height: 100%;
+    
+}
+.er{
+    vertical-align: top;
+    font: normal 400 20px 'Microsoft yahei';
+    text-align:left;
+    color: rgb(252, 252, 252);
+
+}
+div span {
+    display: inline-block;
+    width: 33%;
+    height: 100%;
+    background-color: #b6d6f2;
+    color: #fff;
+    text-align: center;
+    line-height: 400px;
+}
+div span p{
+    text-indent: 2em;
+}
+.zhaopian{
+    display: inline-block;
+    background-color: rgb(188, 238, 223);
+    vertical-align: top;
+    width: 16.3%;
+    float:right;
+}
